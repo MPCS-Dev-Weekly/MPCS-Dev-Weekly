@@ -10,7 +10,7 @@ and interesting algorithm tech interview problems with the community. Starting f
 The site is built by Yi Qin, and Yifan Xiao, both are UChicago alumni and software engineers working
 in San Francisco Bay Area. 
 
-You can find the source code for this blog site at out
+You can find the source code for this blog site at our
 [github repo](https://github.com/MPCS-Dev-Weekly/MPCS-Dev-Weekly)
 
 Wanna discuss about something cool? Open an [issue](https://github.com/MPCS-Dev-Weekly/MPCS-Dev-Weekly/issues) or submit a [pull request](https://github.com/MPCS-Dev-Weekly/MPCS-Dev-Weekly/pulls).
