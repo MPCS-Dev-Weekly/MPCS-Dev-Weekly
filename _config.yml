@@ -7,16 +7,16 @@
 exclude: [vendor]
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: MPCS Dev Weekly
+email: xiaoyifanno1@gmail.com yiqin.mems@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is the blog we built for sharing tech news, mobile development technologies,
+  and interesting algorithm tech interview problems with the community. Starting from
+  the University of Chicago alumni, but welcome others to join us! 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: AlexShaw17
+github_username:  xiaoyifan
 
 # Build settings
 markdown: kramdown
