@@ -11,8 +11,8 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #111;
+  font: 400 16px/1.5 Charter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #3F3F3F;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -66,12 +66,12 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #2a7ae2;
+  color: #5CACEE;
   text-decoration: none; }
   a:visited {
-    color: #1756a9; }
+    color: #1889e6; }
   a:hover {
-    color: #111;
+    color: #3F3F3F;
     text-decoration: underline; }
 
 /**
@@ -169,7 +169,7 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #111;
+    color: #3F3F3F;
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
